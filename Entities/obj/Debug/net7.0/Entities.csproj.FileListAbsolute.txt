@@ -1,0 +1,12 @@
+E:\C# Summer Class\FMC\Entities\bin\Debug\net7.0\Entities.deps.json
+E:\C# Summer Class\FMC\Entities\bin\Debug\net7.0\Entities.dll
+E:\C# Summer Class\FMC\Entities\bin\Debug\net7.0\Entities.pdb
+E:\C# Summer Class\FMC\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+E:\C# Summer Class\FMC\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Summer Class\FMC\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+E:\C# Summer Class\FMC\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+E:\C# Summer Class\FMC\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+E:\C# Summer Class\FMC\Entities\obj\Debug\net7.0\Entities.dll
+E:\C# Summer Class\FMC\Entities\obj\Debug\net7.0\refint\Entities.dll
+E:\C# Summer Class\FMC\Entities\obj\Debug\net7.0\Entities.pdb
+E:\C# Summer Class\FMC\Entities\obj\Debug\net7.0\ref\Entities.dll

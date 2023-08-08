@@ -1,0 +1,15 @@
+E:\C# Summer Class\FMC\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\C# Summer Class\FMC\DAL\bin\Debug\net7.0\DAL.dll
+E:\C# Summer Class\FMC\DAL\bin\Debug\net7.0\DAL.pdb
+E:\C# Summer Class\FMC\DAL\bin\Debug\net7.0\Entities.dll
+E:\C# Summer Class\FMC\DAL\bin\Debug\net7.0\Entities.pdb
+E:\C# Summer Class\FMC\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\C# Summer Class\FMC\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Summer Class\FMC\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\C# Summer Class\FMC\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\C# Summer Class\FMC\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\C# Summer Class\FMC\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+E:\C# Summer Class\FMC\DAL\obj\Debug\net7.0\DAL.dll
+E:\C# Summer Class\FMC\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\C# Summer Class\FMC\DAL\obj\Debug\net7.0\DAL.pdb
+E:\C# Summer Class\FMC\DAL\obj\Debug\net7.0\ref\DAL.dll
